@@ -2,7 +2,7 @@
 Made by: Jevan
 
 ## Project Goals
-Solve problems 1-2 using a deterministic finite automaton, consult project rubric for more information regarding problems 1-2.
+Solve problems using a deterministic finite automaton, consult project rubric for more information regarding problems 1-2.
 
 ## Requirements
 - requires python 3 or later
